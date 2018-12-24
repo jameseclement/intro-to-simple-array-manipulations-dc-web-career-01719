@@ -34,10 +34,10 @@ def using_uniq(array)
   array.uniq
 end
 
-def using_push(array, string)
-  array.push(string)
+def using_flatten(array)
+  array.flatten
 end
 
-def using_push(array, string)
+def using_delete(array, int)
   array.push(string)
 end
